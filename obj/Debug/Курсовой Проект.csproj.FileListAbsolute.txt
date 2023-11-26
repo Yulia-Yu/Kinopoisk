@@ -1,0 +1,19 @@
+C:\Users\12\Desktop\Plusiki\4 семестр%\Курсовой Проект\Курсовой Проект\bin\Debug\Курсовой Проект.exe.config
+C:\Users\12\Desktop\Plusiki\4 семестр%\Курсовой Проект\Курсовой Проект\bin\Debug\Курсовой Проект.exe
+C:\Users\12\Desktop\Plusiki\4 семестр%\Курсовой Проект\Курсовой Проект\bin\Debug\Курсовой Проект.pdb
+C:\Users\12\Desktop\Plusiki\4 семестр%\Курсовой Проект\Курсовой Проект\obj\Debug\Курсовой Проект.csproj.AssemblyReference.cache
+C:\Users\12\Desktop\Plusiki\4 семестр%\Курсовой Проект\Курсовой Проект\obj\Debug\Курсовой_Проект.Properties.Resources.resources
+C:\Users\12\Desktop\Plusiki\4 семестр%\Курсовой Проект\Курсовой Проект\obj\Debug\Курсовой Проект.csproj.GenerateResource.cache
+C:\Users\12\Desktop\Plusiki\4 семестр%\Курсовой Проект\Курсовой Проект\obj\Debug\Курсовой Проект.csproj.CoreCompileInputs.cache
+C:\Users\12\Desktop\Plusiki\4 семестр%\Курсовой Проект\Курсовой Проект\obj\Debug\Курсовой Проект.exe
+C:\Users\12\Desktop\Plusiki\4 семестр%\Курсовой Проект\Курсовой Проект\obj\Debug\Курсовой Проект.pdb
+C:\Users\12\Desktop\Plusiki\4 семестр%\Курсовой Проект\Курсовой Проект\obj\Debug\Курсовой_Проект.Form1.resources
+C:\Users\12\Desktop\Plusiki\4 семестр%\Курсовой Проект\Курсовой Проект\obj\Debug\Курсовой_Проект.Form2.resources
+C:\Users\12\Desktop\Plusiki\4 семестр%\Курсовой Проект\Курсовой Проект\obj\Debug\Курсовой_Проект.Form3.resources
+C:\Users\12\Desktop\Plusiki\4 семестр%\Курсовой Проект\Курсовой Проект\obj\Debug\Курсовой_Проект.Form4.resources
+C:\Users\12\Desktop\Plusiki\4 семестр%\Курсовой Проект\Курсовой Проект\obj\Debug\Курсовой_Проект.Eror.resources
+C:\Users\12\Desktop\Plusiki\4 семестр%\Курсовой Проект\Курсовой Проект\obj\Debug\Курсовой_Проект.Erorr2.resources
+C:\Users\12\Desktop\Plusiki\4 семестр%\Курсовой Проект\Курсовой Проект\obj\Debug\Курсовой_Проект.Erorr3.resources
+C:\Users\12\Desktop\Plusiki\4 семестр%\Курсовой Проект\Курсовой Проект\obj\Debug\Курсовой_Проект.Erorr4.resources
+C:\Users\12\Desktop\Plusiki\4 семестр%\Курсовой Проект\Курсовой Проект\obj\Debug\Курсовой_Проект.Form5.resources
+C:\Users\12\Desktop\Plusiki\4 семестр%\Курсовой Проект\Курсовой Проект\obj\Debug\Курсовой_Проект.Form6.resources
